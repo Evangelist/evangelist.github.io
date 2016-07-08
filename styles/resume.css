@@ -1,0 +1,54 @@
+body
+{
+    font-family: 'Book Antiqua', serif;
+    /*font-family: 'Cormorant Garamond', serif;*/
+    font-size: 20px;
+}
+
+.name
+{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.email
+{
+    text-align: center;
+}
+
+.category
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content
+{
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.company
+{
+}
+
+.company_name
+{
+    text-decoration: underline;
+}
+
+.year
+{
+    float: right;
+}
+
+.position
+{
+    font-style: italic;
+}
+
+ul, li
+{
+    list-style-position: outside;
+}
